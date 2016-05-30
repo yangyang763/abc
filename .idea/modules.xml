@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/HDay01.iml" filepath="$PROJECT_DIR$/HDay01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HDay01_1_屏幕适配/app.iml" filepath="$PROJECT_DIR$/HDay01_1_屏幕适配/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hday01_2_常用插件/hday01_2_常用插件.iml" filepath="$PROJECT_DIR$/hday01_2_常用插件/hday01_2_常用插件.iml" />
+    </modules>
+  </component>
+</project>
